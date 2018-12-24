@@ -1,15 +1,15 @@
 {
 	"name": "die-on-error",
 	"version": "0.0.0-dev.0",
-	"description": "",
+	"description": "set a node application to terminate upon any unhandled errors",
+	"author": "Chase Moskal",
+	"license": "ISC",
 	"main": "index",
 	"keywords": [
 		"die",
 		"unhandledRejection",
 		"uncaughtException"
 	],
-	"author": "Chase Moskal",
-	"license": "ISC",
 	"files": [
 		"index.js"
 	],
