@@ -1,6 +1,6 @@
 {
 	"name": "die-on-error",
-	"version": "0.0.0-dev.0",
+	"version": "0.0.0-dev.1",
 	"description": "set a node application to terminate upon any unhandled errors",
 	"author": "Chase Moskal",
 	"license": "ISC",
