@@ -5,14 +5,22 @@
 	"author": "Chase Moskal",
 	"license": "ISC",
 	"main": "index",
+	"files": [
+		"index.js"
+	],
 	"keywords": [
 		"die",
 		"unhandledRejection",
 		"uncaughtException"
 	],
-	"files": [
-		"index.js"
-	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/chase-moskal/die-on-error.git"
+	},
+	"bugs": {
+		"url": "https://github.com/chase-moskal/die-on-error/issues"
+	},
+	"homepage": "https://github.com/chase-moskal/die-on-error#readme",
 	"scripts": {
 		"test": "exit 0"
 	}
